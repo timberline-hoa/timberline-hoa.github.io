@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: By-Laws
+  link: /by-laws.html
+- name: Covenants
+  link: /covenants.html

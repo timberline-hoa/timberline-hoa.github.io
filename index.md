@@ -7,8 +7,8 @@ If you have ideas for content to be add, please send us an email.
 
 # Dues 2022
 - Due by 07/30/2022
-- Amount: $93.50
-  - Annual: $43.50
+- Amount: $92.35
+  - Annual: $42.35
   - Special Assessment: $50
 - Payable to: Timberline HOA
 - Method: Check or money order

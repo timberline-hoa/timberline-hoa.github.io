@@ -1,0 +1,22 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Menu
+    output: web
+    folderitems:
+    - title: Home
+      url: /index.html
+      output: web
+    - title: By-Laws
+      url: /bylaws.html
+      output: web
+    - title: Covenants
+      url: /covenants.html
+      output: web
+    - title: Common Area Detention Basin
+      url: /commonAreaDetentionBasin.html
+      output: web

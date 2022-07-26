@@ -11,6 +11,9 @@ entries:
     - title: Home
       url: /index.html
       output: web
+    - title: News
+      url: /news.html
+      output: web
     - title: By-Laws
       url: /bylaws.html
       output: web

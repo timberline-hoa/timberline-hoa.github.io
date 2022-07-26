@@ -1,7 +1,8 @@
 ---
 title: Timberline HOA in Springfield MO, 65807
+permalink: index.html
 ---
-Our Email: [timberlinehoa65807@gmail.com](mailto:timberlinehoa65807@gmail.com)
+Our Email: [TimberlineHOA65807@gmail.com](mailto:timberlinehoa65807@gmail.com)
 
 🚧 Website Under Construction 🚧
 

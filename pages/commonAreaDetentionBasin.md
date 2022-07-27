@@ -7,7 +7,16 @@ This page will contain information about our common area detention basin, such a
 
 # Fence for the sinkhole
 
-Please vote by **Wednesday 07/27/2022 12:00** by emailing [TimberlineHOA65807@gmail.com](mailto:timberlinehoa65807@gmail.com?subject=Vote for Fence and Sign&body=My vote for the fence is Option <A, B, C or D> and my vote for the sign is Option <1 or 2>) one of the fence company options and one sign option.
+~~Please vote by **Wednesday 07/27/2022 12:00** by emailing [TimberlineHOA65807@gmail.com](mailto:timberlinehoa65807@gmail.com?subject=Vote for Fence and Sign&body=My vote for the fence is Option <A, B, C or D> and my vote for the sign is Option <1 or 2>) one of the fence company options and one sign option.~~
+
+The votes are in
+
+| Fence Option | Votes | Sign Option | Votes |
+| --- | :-: | --- | :-: |
+| Option A - County Line and Fence | 13 | Option 1 | 5 |
+| Option B - Junk Monkeys | 3 | Option 2 | 2 |
+
+We will be going with County Line and Fence and Sign option 1. Thanks to all who voted.
 
 [Original Document]({{ site.url }}/documents/2022_07_26_Fence_Information.pdf)
 

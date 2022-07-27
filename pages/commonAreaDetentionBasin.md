@@ -24,22 +24,22 @@ The following companies have provided us quotes for a 6’ wood privacy fence in
 The following companies, if notified by **TOMORROW, WEDNESDAY**, they can have the fence installed by the 10th. Please keep in mind that we are dealing with an extremely short time frame so **PLEASE PLACE YOUR VOTE BY TOMORROW AT NOON!!!** These companies are licensed, insured and provide a one-year warranty. 
 
 - Option A: 
-  - County Line Fence & Restoration
+  - [County Line Fence & Restoration](https://www.facebook.com/County-Line-Fence-and-Restoration-107679664737373/)
   - $2400 total
   - One day install
   - 50% down and 50% upon completion 
 - Option B: 
-  - Junk Monkeys
+  - [Junk Monkeys](https://www.junkmonkeysllc.com/)
   - $2500 total
   - Two days to install, August 3rd and 4th
   - 50% down and 50% upon completion
 - Option C: 
-  - First Due Fencing
+  - [First Due Fencing](https://www.facebook.com/FirstDueFencing/)
   - $3,500.00 total
   - Install Aug.10th
   - 50% down, 50% upon completion
 - Option D: 
-  - Ozark Fence 
+  - [Ozark Fence](https://ozfence.com/) 
   - $3,656.63 total
   - 50% down, 50% upon completion. 
   - NOT SURE OF START DATE. 

@@ -21,17 +21,15 @@ We will be following [Roberts Rules of Order](https://www.boardeffect.com/blog/r
 
 **Please read the By-Laws [Article VI]({{ site.url }}/bylaws.html#article-vi---board-of-directors) and [Article VII]({{ site.url }}/bylaws.html#article-vii---officers).**
 
-We will be electing officers at the annual meeting. If you wish to be an officer please attend the meeting or let the board know that you would like to be an officer but cannot attend the meeting. Some important points to note:
+We will be electing the Board of Directors at the annual meeting. The Board of Directors will then elect the principal officers of the Association. These Officers shall be a President, one or more Vice-Presidents, a Secretary, and a Treasurer. If you wish to be an Officer, please attend the meeting or let the Board know that you would like to be an Officer but cannot attend the meeting. Some important points to note:
 
-- Members of the board of directors are appointed by remaining members of the board of directors
-- Officers are elected annually by the board of directors
-- Members of the board of directors can fulfill the roles of the officers out of necessity
-  - This is not explicitly stated in the by-laws but neither is it forbidden
-  - This has been the case for several previous board of directors
-- The current board of directors is Glenn Smith, Joyce Vogt, and Gideon Walker. All three of us have been duly elected by previous board members.
-- The ideal scenario would be that we would have enough interest in our HOA to have officers separate from the board of directors.
-  - This would require 7 interested people total, 3 for the board and 4 for the officer positions.
-- There is a 2 year term limit for the board of directors, but an officer does not have a term limit. A person can continue to be an officer as long as they are elected each year by the board of directors.
+- Officers are elected annually by the Board of Directors
+- Members of the Board of Directors can fulfill the roles of the officers out of necessity.
+- This is not explicitly stated in the by-laws but neither is it forbidden. This has been the case for several previous Board of Directors
+- The current Board of Directors is Glenn Smith (President), Gideon Walker (Vice-President), and Joyce Vogt (Secretary/Treasurer). We are also filling the roles of Officers.
+- The ideal scenario would be that we would have enough interest in our HOA to have Officers separate from the Board of Directors.
+- This would require 7 people total: 3 Board members and 4 Officer positions.
+- There is a 2-year term limit for the Board of Directors, but an Officer does not have a term limit. A person can continue to be an Officer as long as they are elected each year by the Board of Directors.
 
 ## Trailers, Work Trucks, Campers
 

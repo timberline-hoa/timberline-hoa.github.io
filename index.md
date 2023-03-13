@@ -11,6 +11,8 @@ Our Email: [TimberlineHOA65807@gmail.com](mailto:timberlinehoa65807@gmail.com)
 
 Please see the [news page]({{site.url}}/news.html) for the latest information.
 
+[Missouri Online Business Filing](https://bsd.sos.mo.gov/BusinessEntity/BusinessEntityDetail.aspx?page=beSearch&ID=701261)
+
 ![Map of Neighborhood]({{ site.url }}/images/timberline-map.jpg)
 
 [Map pdf]({{ site.url }}/documents/Timberline_Map.pdf)

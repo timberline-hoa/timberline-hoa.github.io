@@ -23,6 +23,6 @@ entries:
     - title: Covenants
       url: /covenants.html
       output: web
-    - title: Common Area Detention Basin
-      url: /commonAreaDetentionBasin.html
+    - title: Documents
+      url: /documents.html
       output: web

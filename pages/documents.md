@@ -5,6 +5,7 @@ permalink: documents.html
 
 List of all documents available on this website
 
+- [2024-05-09-Board-Meeting.pdf]({{ site.url }}/documents/2024-05-09-Board-Meeting.pdf)
 - [2024-03-08-Board-Meeting.pdf]({{ site.url }}/documents/2024-03-08-Board-Meeting.pdf)
 - [2024-02-09-Board-Meeting-Minutes.pdf]({{ site.url }}/documents/2024-02-09-Board-Meeting-Minutes.pdf)
 - [2023_Proposed_Budget.xlsx]({{ site.url }}/documents/2023_Proposed_Budget.xlsx)

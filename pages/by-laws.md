@@ -51,20 +51,20 @@ D.	_Assignment_. No member may assign his membership.
 
 ## ARTICLE V - Meetings of Members
 
-A.	_Annual Mestings_. An annual meeting of the members of the Association shall be held on the second Monday in the month of January in each year beginning in the year 1995, at the hour of 10:00 o'clock a.m., for the purpose of electing directors and for the transaction of such other business as may come before the meeting. If the day fixed shall be a legal holiday, such meeting shall be held on the next day not a legal holiday.
+A.	_Annual Meetings_. An annual meeting of the members of the Association shall be held on the second Monday in the month of January in each year beginning in the year 1995, at the hour of 10:00 o'clock a.m., for the purpose of electing directors and for the transaction of such other business as may come before the meeting. If the day fixed shall be a legal holiday, such meeting shall be held on the next day not a legal holiday.
 
 B.	_Regular Meeting_. In addition to the annual meetings, regular meetings of the members may be held at such time as shall be determined by the Board of Directors.
 
 C.	_Special Meetings_. It shall be the duty of the President to call a special meeting of the 
 members as erected by resolution of the Board of Directors or upon a petition approved by members having not less than 50% of the voting rights of the Association. The notice of any special meeting shall state the time and place of such meeting and the purpose thereof, No business shall be transacted at its special meeting, except as stated in the notice, unless by consent of four-fifths of the members present, either in person or by proxy.
 
-D.	_Places of Mestings_. The meetings of the Association shall be held at its principal office or such other suitable place convenient to the members as may be designated by the Board of Directors.
+D.	_Places of Meetings_. The meetings of the Association shall be held at its principal office or such other suitable place convenient to the members as may be designated by the Board of Directors.
 
 E.	_Notice of Meetings_. It shall be the duty of the Secretary to mail a notice of each annual, regular or special meeting, stating the purpose thereof, as well as the time and place where it is to be held, to each member entitled to vote, at least five (5), but not more than ten (10) days prior to such meeting; unless notice of a longer period is required under the provisions of the Declaration.
 
 F.	_Quorum_. The presence at any meeting, in person or by proxy, of members holding at least 33% of the membership votes entitled to be cast shall be necessary and sufficient to constitute a quorum for the transaction of business.
 
-G.	_Adioured Mestings_. If any meeting of members cannot be organized because of quorum has not attended, the members who are present either in person or by proxy, may adjourn the meeting to a time ppt less than 48 hours from the time the original meeting was called. No additional notice to the members shall be required with respect to such meeting.
+G.	_Adjoured Meetings_. If any meeting of members cannot be organized because of quorum has not attended, the members who are present either in person or by proxy, may adjourn the meeting to a time ppt less than 48 hours from the time the original meeting was called. No additional notice to the members shall be required with respect to such meeting.
 
 H.	_Voting_. Members shall be entitled to such votes as are set out in the Article VI, Section 3 of the Declaration.
 
@@ -138,11 +138,11 @@ The Association shall have such assessments as are provided in Article VII of th
 ## ARTICLE X - Rules and Regulations
 
 The Board of Directors may adopt such rules and regulations as may be necessary or appropriate for the accomplishment of the purposes of the Association; provided, however, that such rules and regulations shall not be contrary to or conflict with the Declaration, as now exists or as hereafter amended. Such rules and regulations shall become effective when approved by 
-two-thirds yote of the members of the Association, and when so approved shall become a part of these by-laws.
+two-thirds vote of the members of the Association, and when so approved shall become a part of these by-laws.
 
 ## ARTICLE XI - Amendments
 
-These articles may be amended or repealed, or new by-laws may be made and adopted, at any annual, regular or special meeting of the members of the Association, by a majority yote of all the members entitled to vote, provided that notice of intention to amend shall have been set forth in the notice of the meeting.
+These articles may be amended or repealed, or new by-laws may be made and adopted, at any annual, regular or special meeting of the members of the Association, by a majority vote of all the members entitled to vote, provided that notice of intention to amend shall have been set forth in the notice of the meeting.
 
 IN WITNESS WHEREOF, we, being all the directors of the Association, have hereunto set our hands this \_\_\_\_ day of \_\_\_\_\_\_\_\_, 2001.
 

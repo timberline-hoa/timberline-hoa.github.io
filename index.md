@@ -7,10 +7,15 @@ permalink: index.html
 >
 > Galatians 5:14
 
-- **DUES:**
-  - 2022: $92.35 (includes $50 special assessment)
-  - 2023: $43.25
-  - 2024: $45.00
+# Dues
+- [View this spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vS4ZoZYAkHo5P0EZGG0hFQ8zWKQAptXAuokYfslhyAllfeD80c2O2YWplKmEGKpYSYQ_fi2x0wquob2/pubhtml) for the record of dues payments.
+  - There are invoices for unpaid dues on this spreadsheet. Click the link to pay the invoice online.
+- 2026: $45.00
+- 2025: $45.00
+- 2024: $45.00
+- 2023: $43.25
+
+# Info
 - Our Email: [TimberlineHOA65807@gmail.com](mailto:timberlinehoa65807@gmail.com)
 - Please see the [news page]({{site.url}}/news.html) for the latest information.
 - [Missouri Online Business Filing](https://bsd.sos.mo.gov/BusinessEntity/BusinessEntityDetail.aspx?page=beSearch&ID=701261)

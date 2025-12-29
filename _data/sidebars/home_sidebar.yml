@@ -14,8 +14,8 @@ entries:
     - title: News
       url: /news.html
       output: web
-    - title: Email Subscribe
-      url: /email-subscribe.html
+    - title: Contact Us
+      url: /contact-us.html
       output: web
     - title: By-Laws
       url: /bylaws.html

@@ -3,6 +3,12 @@
 topnav:
 - title: Topnav
   items:
+    - title: Covenants
+      url: /covenants.html
+    - title: By-Laws
+      url: /bylaws.html
+    - title: Documents
+      url: /documents.html
     - title: News
       url: /news
 

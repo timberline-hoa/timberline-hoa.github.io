@@ -13,12 +13,6 @@ permalink: index.html
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1RwZk7RKY33oHrZR1O00lV36"
-  publishable-key="pk_live_51RtxF6RKY33oHrZR7nfhj2kvYde4sMtQs0y5ZPjpN2jm20byPZyg0yNPsZzoxYV03rniOhq9MiS4k5tbaJ7Fc3kt009Ej9HTNM"
->
-</stripe-buy-button>
-
-<stripe-buy-button
   buy-button-id="buy_btn_1SjpWIRKY33oHrZRTqyGZ1yv"
   publishable-key="pk_live_51RtxF6RKY33oHrZR7nfhj2kvYde4sMtQs0y5ZPjpN2jm20byPZyg0yNPsZzoxYV03rniOhq9MiS4k5tbaJ7Fc3kt009Ej9HTNM"
 >

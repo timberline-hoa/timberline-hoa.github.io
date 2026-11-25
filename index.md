@@ -12,11 +12,12 @@ permalink: index.html
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
-<stripe-buy-button
+<!-- <stripe-buy-button
   buy-button-id="buy_btn_1UdiHLRKY33oHrZRJVLzDys0"
   publishable-key="pk_live_51RtxF6RKY33oHrZR7nfhj2kvYde4sMtQs0y5ZPjpN2jm20byPZyg0yNPsZzoxYV03rniOhq9MiS4k5tbaJ7Fc3kt009Ej9HTNM"
 >
-</stripe-buy-button>
+</stripe-buy-button> -->
+Please pardon us as we are working to move to a new payment system. 
 
 # Dues
 - [View this spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vS4ZoZYAkHo5P0EZGG0hFQ8zWKQAptXAuokYfslhyAllfeD80c2O2YWplKmEGKpYSYQ_fi2x0wquob2/pubhtml) for the record of dues payments.
